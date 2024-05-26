@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1716561319 source:e:\codeblocks_project\pthread_static_barrier_col\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+	<stdio.h>
+	<cstdlib>
+	<semaphore.h>
+
