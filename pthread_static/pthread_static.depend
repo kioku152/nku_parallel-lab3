@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1716559739 source:e:\codeblocks_project\pthread_static\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+	<stdio.h>
+	<cstdlib>
+	<semaphore.h>
+
