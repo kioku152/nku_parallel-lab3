@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1716564171 source:e:\codeblocks_project\openmp_test\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+	<omp.h>
+
