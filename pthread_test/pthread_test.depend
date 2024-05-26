@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716561509 source:e:\codeblocks_project\pthread_test\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+
